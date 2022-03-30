@@ -6,24 +6,10 @@ exports[`Работа с DOM Автозамена элементов дерев�
 >
   <section
     class="item_2"
-  >
-    <div
-      class="item_3"
-    />
-    <div
-      class="item_3"
-    />
-  </section>
+  />
   <section
     class="item_2"
-  >
-    <div
-      class="item_3"
-    />
-    <div
-      class="item_3"
-    />
-  </section>
+  />
 </div>
 `;
 
